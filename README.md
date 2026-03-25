@@ -62,8 +62,8 @@ Seven in total:
 MySQL 8.0 or above. I used MySQL Workbench but any client should work fine.
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/Arun-Singh-Chauhan-09/GH1052389-M605-Advanced-Databases.git
+cd GH1052389-M605-Advanced-Databases
 ```
 
 Open a query window and run:
