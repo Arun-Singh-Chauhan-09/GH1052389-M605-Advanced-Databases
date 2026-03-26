@@ -7,7 +7,7 @@ GISMA University of Applied Sciences, Winter 2026
 
 ## Demo Video
 
-[Watch on YouTube](https://youtube.com/watch?v=your-video-id) — update this link before submission
+[Watch on YouTube] : https://youtu.be/8iRR3c1aTvc
 
 ---
 
